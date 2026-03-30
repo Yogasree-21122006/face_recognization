@@ -106,7 +106,7 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻Developer
 
 **Yogasree S**
 
