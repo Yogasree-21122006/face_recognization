@@ -37,3 +37,11 @@ This project uses a **Face Embedding Model** to compare uploaded face images wit
 ---
 
 ## 📁 Project Structure
+Face_recognization/
+│
+├── app.py                         # Main Streamlit application (frontend + logic)
+├── model_helper.py                # Neural network architecture (FaceEmbeddingNet)
+├── face_embedding_model_cpu.pth   # Trained deep learning model
+├── embeddings.pkl                 # Stored face embeddings database
+├── requirements.txt               # Required Python libraries
+├── README.md                      # Project documentation
