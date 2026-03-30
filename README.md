@@ -6,7 +6,7 @@ It allows users to upload a cropped face image and verifies the identity using a
 ---
 
 ## 🚀 Live Demo
-👉 (Add your Streamlit link here after deployment)
+👉[(https://facerecognization-eg4w6fnbpw9q4taz8ytvjk.streamlit.app/)](https://facerecognization-eg4w6fnbpw9q4taz8ytvjk.streamlit.app/)
 
 ---
 
