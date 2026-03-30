@@ -108,7 +108,7 @@ streamlit run app.py
 
 ## 👨‍💻Developer
 
-**Yogasree S**
+**Yoga Sree S**
 
 ---
 
